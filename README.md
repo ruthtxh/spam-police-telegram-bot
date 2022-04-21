@@ -9,7 +9,7 @@ Spam message characteristics:
 - repeated @mentions separated by new line
 This list is non-exhaustive, more validation can be added along the way with more data gathered.
 
-Hosted on AWS with Lambda & API Gateway.
+Hosted on AWS with Lambda & API Gateway, Node.js 14.x runtime on x86_64 architecture.
 
 ## Usage
 1. Add @spampolice_bot to your group chat
